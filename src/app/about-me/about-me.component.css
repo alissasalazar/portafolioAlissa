@@ -1,0 +1,15 @@
+.aboutContent {
+  display: flex;
+  align-items: center;
+}
+img {
+  position: absolute;
+}
+
+.phraseAbout {
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Courier Prime", monospace;
+  padding: 5%;
+}
